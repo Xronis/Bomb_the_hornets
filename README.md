@@ -15,7 +15,7 @@ You are given the following hints:
 
 * A map that describes the placement of the nests and also the amount of hornets that live in each one of them (using an array of 100x100).
 
-![alt text](https://raw.githubusercontent.com/Xronis/Bomb_the_hornets/master/images/Selection_002.bmp)	
+![alt text](https://raw.githubusercontent.com/Xronis/Bomb_the_hornets/master/images/Selection_035.png)	
 
 * A formula that describes the relationship between the distance of the bomb from the nest and the killing rate:
 	K = n * dmax / (20 * d + 0.00001)
