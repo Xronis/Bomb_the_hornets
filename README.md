@@ -18,7 +18,7 @@ You are given the following hints:
 ![alt text](https://raw.githubusercontent.com/Xronis/Bomb_the_hornets/master/images/Selection_035.png)	
 
 * A formula that describes the relationship between the distance of the bomb from the nest and the killing rate:
-	K = n * dmax / (20 * d + 0.00001)
+	<b>K = n * dmax / (20 * d + 0.00001)</b>
 
   where:
     * K: Dead hornets inside the nest
